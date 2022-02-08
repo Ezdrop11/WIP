@@ -1,1 +1,5 @@
-
+game.StarterGui:SetCore("SendNotification", {
+			Title = "Glee Whitelist";
+			Text = "Allow up to 30 seconds for whitelist to load!";	
+			Duration = "10";
+		})
